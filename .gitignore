@@ -13,3 +13,4 @@
 .pnp.*
 node_modules
 dev-wallet.json
+*wallet.json
